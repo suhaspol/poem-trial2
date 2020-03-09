@@ -2,3 +2,5 @@ The quick brown beige fox.
 These are colors of a fox.
 The fox is always quick.
 The fox is not green.
+Wolves are like foxes.
+Wolves are black, white, and gray.
