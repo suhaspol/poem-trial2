@@ -8,3 +8,4 @@ Foxes are red in color.
 Foxes come in variuos sizes.
 Foxes have long ears.
 Rabbits have long ears
+Foxes are nocternal.
