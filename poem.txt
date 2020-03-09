@@ -1,3 +1,4 @@
 The quick brown beige fox.
 These are colors of a fox.
 The fox is always quick.
+The fox is not green.
